@@ -12,6 +12,8 @@ Welcome to boke's documentation!
    
    test/test.rst
    test/i4t.md
+   test/hello.rst
+   test/hello1.rst
 
 Indices and tables
 ==================
